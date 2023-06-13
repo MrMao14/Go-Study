@@ -1,3 +1,3 @@
 module Go-Study
 
-go 1.20.5
+go 1.23
